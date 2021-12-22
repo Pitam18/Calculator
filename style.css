@@ -1,0 +1,44 @@
+body
+{
+	background-color: black;
+}
+#clear
+{
+	width: 335px;
+}
+.formstyle
+{
+	width: 350px;
+	height: 320px;
+	margin: auto;
+	border: 2px solid white;
+	margin-top: 80px;
+	padding: 20px;
+	padding-right: 8px;
+}
+input
+{
+	width: 100px;
+	margin-right: 14px;
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+}
+#answer
+{
+	width: 330px;
+	height: 30px;
+}
+h1
+{
+	text-align: center;
+	padding-top: 30px;
+	font-size: 50px;
+	color: white;
+}
+h3
+{
+	text-align: center;
+	margin-top: 100px;
+	color: white;
+}
